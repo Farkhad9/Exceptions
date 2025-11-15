@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Exceptions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\currecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\currecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|c:\\users\\user\\desktop\\exceptions\\exceptions\\exceptions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D0183BB5-EE1F-B0FF-2560-6D3067385E2E}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\exceptions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Celsius.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Celsius.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Celsius.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Celsius.cs",
+              "RelativeToolTip": "Exceptions\\Celsius.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:03:58.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kelvin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Kelvin.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Kelvin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Kelvin.cs",
+              "RelativeToolTip": "Exceptions\\Kelvin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:02:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exceptions",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Exceptions.csproj",
+              "RelativeDocumentMoniker": "Exceptions\\Exceptions.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Exceptions.csproj",
+              "RelativeToolTip": "Exceptions\\Exceptions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T02:57:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:35:25.994Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,22 +91,9 @@
               "RelativeDocumentMoniker": "Exceptions\\Currecy.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Currecy.cs",
               "RelativeToolTip": "Exceptions\\Currecy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T01:23:57.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Program.cs",
-              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Program.cs",
-              "RelativeToolTip": "Exceptions\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:36:55.502Z",
+              "WhenOpened": "2025-11-15T02:22:43.952Z",
               "EditorCaption": ""
             }
           ]
