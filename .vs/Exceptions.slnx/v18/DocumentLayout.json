@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Exceptions",
+              "Title": "Exceptions.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Exceptions.csproj",
               "RelativeDocumentMoniker": "Exceptions\\Exceptions.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\Exceptions\\Exceptions\\Exceptions.csproj",
               "RelativeToolTip": "Exceptions\\Exceptions.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T03:07:16.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T03:07:16.259Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Exceptions\\Models\\Kelvin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T03:02:29.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T03:02:29.1Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Exceptions\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T02:35:25.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T02:35:25.994Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "Exceptions\\Models\\Currecy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T02:22:43.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T02:22:43.952Z"
             }
           ]
         }
