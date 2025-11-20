@@ -38,11 +38,13 @@ namespace Exceptions.Models
             }
         }
 
-        public User(string email, string password)
+        public User(string fullname, string email, string password)
         {
           idCounter++;
           _id = idCounter;
-          Email = email;
+
+          FullName = fullname;
+            Email = email;
           Password = password;
 
 
